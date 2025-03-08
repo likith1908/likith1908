@@ -2,7 +2,8 @@
 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=likith1908) -->
 
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=likith1908&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Likith's Github Stats">
+</br>
 
 <!--
 **likith1908/likith1908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
