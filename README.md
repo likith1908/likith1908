@@ -1,7 +1,8 @@
 ### Hi there , I am Likith👋
 
-Student at Mahindra University[mahindrauniversity.edu.in]
-Associate Engineer at Auropro Soft Systems[aurotekcorp.com]
+*Student at Mahindra University[mahindrauniversity.edu.in]*
+
+*Associate Engineer at Auropro Soft Systems[aurotekcorp.com]*
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=likith1908) -->
 
 
