@@ -1,4 +1,4 @@
-### Hi there , I am Likith Gannarapu👋
+### Hi there , I am Likith👋
 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=likith1908) -->
 
