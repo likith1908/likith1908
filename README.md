@@ -1,6 +1,6 @@
 ### Hi there , I am Likith👋
 
-*Final year Under Graduate at [Mahindra University](https://mahindrauniversity.edu.in)*
+*Final Year Under Graduate at [Mahindra University](https://mahindrauniversity.edu.in)*
 
 <!-- *Associate Engineer at [Auropro Soft Systems](https://aurotekcorp.com)* -->
 
